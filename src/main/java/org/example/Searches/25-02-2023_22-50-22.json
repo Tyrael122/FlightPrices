@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "flyFrom": "GRU",
+      "flyTo": "SLZ",
+      "duration": 12600,
+      "price": 530,
+      "local_departure": "2023-06-25T22:50:00.000Z",
+      "local_arrival": "2023-06-26T02:20:00.000Z",
+      "deep_link": "https://www.kiwi.com/deep?affilid=tyraelflightprice&currency=BRL&flightsId=005308c64c4d000091a74f96_0&from=GRU&lang=en&passengers=1&to=SLZ&booking_token=EV-AIhOupvBJCwyoSLgoXt6fTsaPNHSuaBMWfbdBAvFx7ZFiaJAalvFrTdJ99xn6mKz2A4i3Gx5jqO4egguef0NBwcXycC3IJx1xJeeCLmDxJDfU7ltYjkRv8odz4YEnmZPPhdN7iKC8V96_UB23qoH_Pya7S_rCIbuTPXVgzjIq9Fl11nt6G7Y88jV9NsbDNrUjtsQL2ySk6e-UaUDUTz-qDFNUYogcOGTEwvEiG29XGZN1Ywq1a3oNvbt-butR7NU6ehK6VU15zf6_UW5M7i4QCvzcEBr49HYSQ1PSwokUv3-CMVPchoU7xMoOiKUDvQu7WyAC4N-i8PV2B6duZZdJNfy4bfKZENlr1OoQpwHivyZKTO5qTA0eqJkJbg_gQnF4FHccLPr5OjzfN_42BjQ=="
+    },
+    {
+      "flyFrom": "GRU",
+      "flyTo": "SLZ",
+      "duration": 12600,
+      "price": 530,
+      "local_departure": "2023-06-27T22:50:00.000Z",
+      "local_arrival": "2023-06-28T02:20:00.000Z",
+      "deep_link": "https://www.kiwi.com/deep?affilid=tyraelflightprice&currency=BRL&flightsId=005308c64c4f000029bf3ddb_0&from=GRU&lang=en&passengers=1&to=SLZ&booking_token=EdkxsDKt68_JkhAR_LP738Kxyy5xf66AO1sIeVgZ9OCuQzdaqCxeq7tzdp4yap-jhZXJ4QA4VC9jNCcXypn3J0s_Qd9t51xc1zPVUN7Ad434Uw2uGqYcN2YIZUMiXYof3mBoFgYfL2Vtu8a1kok2Yvw0Q_675iScPauRdbh7O9keWUITHi1XBI-bw_Nf6t5xWy3Vezs8GI5zx-iiFBBBtaicj42sEd-JWSXBnlkLaG55w-BS7rDG2u4qXPhBMzjdT2YucKrVfgxCo5-tHtY_CJ_CuV-uuzJ-C0zlckImn5R9-kUHHB_-8BEztAXlpgQrcWcGuFs7rbYz5b6U85aZraI-7CEH0NAzYRN-MPvDFxbIuAuNP4yNS1LwnzKvwUShdaKnS2YuHA_nSf2F3S86uQg=="
+    }
+  ],
+  "averagePrice": 530,
+  "timestamp": "25-02-2023_22-50-22"
+}
